@@ -19,7 +19,6 @@ def dificuldade():
         if nivel in [1, 2, 3]:
             return nivel
         else:
-            print("Por favor, selecione 1, 2 ou 3.")
             return 4
     except ValueError:
         print("Por favor, insira um número válido.")
