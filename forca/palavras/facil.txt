@@ -1,0 +1,15 @@
+bola
+carro
+casa
+pato
+maçã
+livro
+flor
+sol
+porta
+tigre
+abacaxi
+amigo
+cachorro
+dia
+mesa
